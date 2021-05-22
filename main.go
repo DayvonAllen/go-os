@@ -98,6 +98,8 @@ func createServer() {
 }
 
 func main() {
+	//OS
+	//runtime.GOOS
 	// use flags in the terminal like this (-arg=test)
 	// 1st arg = name, 2nd arg = default value, 3rd arg = usage message
 	// returns a string pointer
